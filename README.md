@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">
+     Hola soy b1t18 👋
+</h1>
+<hr/>
+<p align="center">Soy un desarrollador muy apasionado que siempre trata de mejorar y brindar la mejor solución posible!</p>
+
 
 <!--
 **b1t18/b1t18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
