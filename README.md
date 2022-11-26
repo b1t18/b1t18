@@ -2,7 +2,7 @@
      Hola soy b1t18 👋
 </h1>
 <hr/>
-<p align="center">Soy un desarrollador muy apasionado que siempre trata de mejorar y brindar la mejor solución posible!</p>
+<p align="center">Soy un desarrollador que disfruta su actividad, buscando siempre mejorar y brindar la mejor solución posible.</p>
 
 
 <!--
